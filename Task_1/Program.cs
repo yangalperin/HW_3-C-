@@ -5,10 +5,10 @@
 Console.Write("Введите пятизначное число: ");
 string numbers = Console.ReadLine();
 if (numbers[0] == numbers[4] && numbers[1] == numbers[3])
-Console.WriteLine("Число " + numbers + " является полиндромом");
+Console.WriteLine("Число " + numbers + " является палиндромом");
 else
 {
-   Console.WriteLine("Число " + numbers + " не является полиндромом"); 
+   Console.WriteLine("Число " + numbers + " не является палиндромом"); 
 }
 
 
