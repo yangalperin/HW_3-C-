@@ -1,0 +1,15 @@
+/Users/yan/Desktop/дз_3 С#/Tusk_3/bin/Debug/net6.0/Tusk_3
+/Users/yan/Desktop/дз_3 С#/Tusk_3/bin/Debug/net6.0/Tusk_3.deps.json
+/Users/yan/Desktop/дз_3 С#/Tusk_3/bin/Debug/net6.0/Tusk_3.runtimeconfig.json
+/Users/yan/Desktop/дз_3 С#/Tusk_3/bin/Debug/net6.0/Tusk_3.dll
+/Users/yan/Desktop/дз_3 С#/Tusk_3/bin/Debug/net6.0/Tusk_3.pdb
+/Users/yan/Desktop/дз_3 С#/Tusk_3/obj/Debug/net6.0/Tusk_3.csproj.AssemblyReference.cache
+/Users/yan/Desktop/дз_3 С#/Tusk_3/obj/Debug/net6.0/Tusk_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yan/Desktop/дз_3 С#/Tusk_3/obj/Debug/net6.0/Tusk_3.AssemblyInfoInputs.cache
+/Users/yan/Desktop/дз_3 С#/Tusk_3/obj/Debug/net6.0/Tusk_3.AssemblyInfo.cs
+/Users/yan/Desktop/дз_3 С#/Tusk_3/obj/Debug/net6.0/Tusk_3.csproj.CoreCompileInputs.cache
+/Users/yan/Desktop/дз_3 С#/Tusk_3/obj/Debug/net6.0/Tusk_3.dll
+/Users/yan/Desktop/дз_3 С#/Tusk_3/obj/Debug/net6.0/refint/Tusk_3.dll
+/Users/yan/Desktop/дз_3 С#/Tusk_3/obj/Debug/net6.0/Tusk_3.pdb
+/Users/yan/Desktop/дз_3 С#/Tusk_3/obj/Debug/net6.0/Tusk_3.genruntimeconfig.cache
+/Users/yan/Desktop/дз_3 С#/Tusk_3/obj/Debug/net6.0/ref/Tusk_3.dll
